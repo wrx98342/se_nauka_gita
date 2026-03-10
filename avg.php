@@ -5,6 +5,6 @@ funkction srednia(a, b):
 }
 funkction srednia_wazona(a, b):
 {
-  return 0.2*a + 0.8*b;
+  return 7*a + 3*b;
 }
 ?>
